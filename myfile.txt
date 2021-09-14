@@ -1,0 +1,10 @@
+Year      Ann. Return    $ Amount       
+10           7.00        19,671.51
+30           7.00        76,122.55
+
+Question 1.B: Present Value Calculation: 
+Years         : 30
+Ann. Rate (%) : 7.00
+Future Value  : 1,000,000
+Present Value : 131,367
+
